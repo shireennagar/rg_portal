@@ -13,9 +13,12 @@ int b=20;
 int c=30;
 int d=40;
 
+
 String cname="hai";
 String cname="java";
 String cname="hello";
+
+String cname="hai";
 
 	}
 
