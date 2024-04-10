@@ -12,7 +12,12 @@ int a=10;
 int b=20;
 int c=30;
 int d=40;
+<<<<<<< HEAD
 String cname="hai";
+=======
+
+String cname="java";
+>>>>>>> parent of 0e154cf (Revert "msg")
 	}
 
 }
