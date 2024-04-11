@@ -15,6 +15,9 @@ int d=40;
 }
 public void m2(){
 //logic
+
+public void m3(){
+}
 }
 	}
 
