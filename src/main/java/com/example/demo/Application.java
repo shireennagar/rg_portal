@@ -17,6 +17,7 @@ public void m2(){
 //logic
 
 public void m3(){
+	int b=20;
 }
 }
 	}
