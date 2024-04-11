@@ -18,6 +18,7 @@ public void m2(){
 
 public void m3(){
 	int b=20;
+	int c=30;
 }
 }
 	}
